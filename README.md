@@ -15,3 +15,7 @@ Link to their website: https://www.udacity.com/
 
 # License
 https://github.com/vidyuth12/Data-Science-Udacity-Projects-/blob/2eba00e77eb38ac0dbabd430418bde128b11e6c7/LICENSE
+
+
+# I have written a blog for the same, you can find in the link below:
+https://sridharvidyuth-18-ce.medium.com/what-influences-the-price-and-number-of-guests-in-your-destined-holiday-houses-2d6a81f86241
