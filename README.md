@@ -2,6 +2,9 @@
 
 This repository contains my data science projects as a part of Udacity nanodegree program.
 
+# Motivation of the project.
+The motivation for doing this project was primarily an interest in undertaking a challenging project in an interesting area of research.
+
 # Libraries used
   1. pandas : pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
      built on top of the Python programming language.
